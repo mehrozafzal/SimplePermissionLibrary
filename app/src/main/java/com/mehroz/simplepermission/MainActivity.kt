@@ -8,6 +8,7 @@ import android.util.Log
 import com.mehroz.simple_permissions.PermissionCallback
 import com.mehroz.simple_permissions.SimplePermission
 
+
 class MainActivity : AppCompatActivity() {
     private val TAG = "MainActivity"
     private var simplePermission: SimplePermission? = null
