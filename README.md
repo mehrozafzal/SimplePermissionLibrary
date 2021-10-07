@@ -8,18 +8,21 @@ SimplePermissions is a wrapper library to simplify basic system permissions logi
 
 
 # Installation
-```
+
+```kotlin
 allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }
 	}
+}
 ```
 
-```
+```kotlin
+
 dependencies {
-	        implementation 'com.github.mehrozafzal:SimplePermissionLibrary:1.0'
-	}
+	 implementation 'com.github.mehrozafzal:SimplePermissionLibrary:1.0'
+}
+
 ```
 
